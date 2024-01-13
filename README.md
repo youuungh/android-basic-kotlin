@@ -24,16 +24,16 @@ Android Studio Giraffe | 2022.3.1 | Kotlin
 
 * [Project9](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap09_Outer)
 
-* [Project10](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap09_Service)
+* [Project9-2](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap09_Service)
 
-* [Project11](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap10_Provider)
+* [Project10](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap10_Provider)
 
-* [Project12](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap11_Database)
+* [Project11](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap11_Database)
 
-* [Project13](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap12_Network)
+* [Project12](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap12_Network)
 
-* [Project14](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap13_Map)
+* [Project13](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap13_Map)
 
-* [Project15](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap14_Firebase)
+* [Project14](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap14_Firebase)
 
-* [Project16](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap15_FirebaseDatabase)
+* [Project15](https://github.com/youuungh/android-basic-kotlin/tree/master/Chap15_FirebaseDatabase)
