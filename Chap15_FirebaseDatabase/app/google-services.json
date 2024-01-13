@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018743570234",
+    "project_id": "databasetest-5bd2c",
+    "storage_bucket": "databasetest-5bd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018743570234:android:fdf14e8a5076cac523da03",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqWG9Zx-GkiP0xy_8_bByN93AArhMPwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
